@@ -17,10 +17,10 @@ import java.util.Date;
  */
 public class SftpExample {
 
-    private String host="192.168.206.14";
+    private String host="hostIP";
     private Integer port=22;
-    private String user="sftpuser2";
-    private String password="Sftp_112358";
+    private String user="sftpuser";
+    private String password="pass";
     public String hostname;
     public String date_mod;
 
